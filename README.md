@@ -10,7 +10,7 @@
   - [Questions](#questions)
 
 ## Description
-This application allows the user to type and edit their text in this text editor. The application saves their text and for their next use and the user can also install this application. I used multiple new technologies and structures such as webpack, service worker and client/server structure. The challenges I faced where understanding how the service worker works. Also what properties I need to use in the plugins of my webpack file. Caching was also a little difficult to write out Syntax-wise, the base concept however makes sense. 
+This project allows you to type and edit their text in this JATE project. The application saves their text to localstorage and cache for offline useage for their next use. Also the application can be installed to your Desktop as a normal app to use anytime. I used multiple new technologies and structures such as webpack, service worker and client/server structure.
 
 ## Installation
 - `Clone the repo to your local machine`
