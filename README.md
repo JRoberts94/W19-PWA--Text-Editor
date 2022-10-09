@@ -1,5 +1,6 @@
 # W19 - PWA Jate - Text Editor
 
+
 ![demo-image](./demo/w19screenshot.PNG)
 ## Table of Content 
   - [Table of Content](#table-of-content)
@@ -9,8 +10,10 @@
   - [Deployed Application](#deployed-application)
   - [Questions](#questions)
 
+
 ## Description
 This project allows you to type and edit their text in this JATE project. The application saves their text to localstorage and cache for offline useage for their next use. Also the application can be installed to your Desktop as a normal app to use anytime. I used multiple new technologies and structures such as webpack, service worker and client/server structure.
+
 
 ## Installation
 - `Clone the repo to your local machine`
