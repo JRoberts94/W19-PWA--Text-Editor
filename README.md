@@ -26,7 +26,7 @@ This project allows you to type and edit their text in this JATE project. The ap
 - you may use this JATE as you see fit  for text and record keep or just regular note taking
 
 ## Deployed Application
-[insert heroku link here](https://[insertlinkhere].herokuapp.com/)
+[JATE Heroku App Link](https://w19-jate-text-editor.herokuapp.com/)
 
 ## Questions
 Feel free to contact me, or explore my GitHub Profile Here: [Github](https://github.com/JRoberts94)
